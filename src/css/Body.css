@@ -1,0 +1,15 @@
+.body-bg {
+    background-image: url("../images/gym.jpg");
+    height: 450px;
+    background-attachment: fixed 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.intro-section {
+    text-align: center;
+    color: rgb(212, 230, 53);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 500%;
+    letter-spacing: normal;
+}
